@@ -1,1 +1,1 @@
-module.exports = require('./src/app/highcharts-chart.component.ts')
+export { HighchartsChartComponent } from './src/app/highcharts-chart.component';
